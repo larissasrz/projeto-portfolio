@@ -1,2 +1,2 @@
 # projeto-portfolio
-Projeto final do CUrso em Vídeo de HTML e CSS
+Projeto final do Curso em Vídeo de HTML e CSS
